@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(230, 121, 20);
+}
+
+.font {
+    font: normal 20px Arial, Verdana, sans-serif;
+}
+
+h1 {
+    font: 40px Anton;
+    color: yellow;
+    background-color: orangered;
+}
+ul {
+    border: 15px dotted #f5f107;
+    background-color: orangered;
+}
+    .linkfont { 
+        color:#000000;
+     font: 18px Arial, Verdana, sans-serif;
+       
+    }
