@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(230, 121, 20);
+    
+}
+
+.font {
+    font: normal 20px Arial, Verdana, sans-serif;
+}
+
+.centreren {
+
+    text-align: center;
+}
+
+.borders {
+   
+    background-color: orangered;
+    border: 5px yellow dotted;
+    margin: 60px 20px 40px;
+    padding: 10px 20px;
+ 
+}
+
+
+ul {
+   
+    background-color: orangered;
+
+}
+
+.linkfont {
+
+    font: 18px Arial, Verdana, sans-serif;
+    color: black;
+
+}
+
+
+  
+.extranav {
+    margin: 0;
+    padding: 0;
+    border:0cm;
+    background-color: rgb(230, 121, 20);
+}
+.horizontaal {
+
+list-style-type: none;
+    text-decoration: none;
+   display: inline;
+    font: 18px Arial, Verdana, sans-serif;
+    color: black;
+    margin: 30px 20px;
+    padding: 20px;
+   
+  
+}
